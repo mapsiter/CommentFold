@@ -1,7 +1,7 @@
 # CommentFold
 A Sublime Text plugin to give an overview of your comments by folding all other code.
 
-![Comment Fold Preview](comment_fold.gif)
+![Comment Fold Preview](comment_fold-preview.gif)
 
 # Default key binding
 fold: "ctrl+alt+/"
