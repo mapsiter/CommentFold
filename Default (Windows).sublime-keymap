@@ -1,10 +1,10 @@
 [
-	{
-    "keys": ["ctrl+alt+/"],
-    "command": "comment_fold"
-	},
-	{
-    "keys": ["shift+ctrl+alt+/"],
-    "command": "comment_unfold"
-	}
+ {
+  "keys": ["ctrl+alt+/"],
+  "command": "comment_fold"
+  },
+ {
+  "keys": ["shift+ctrl+alt+/"],
+  "command": "comment_unfold"
+  }
 ]
